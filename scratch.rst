@@ -19,7 +19,15 @@ Run the following command to create and run the necessary containers:
     $ docker-compose up
 
 
-**Note:** On ARM chips (M1), run the following command to create and run the necessary containers:
+**Note:**
+On ARM chips (M1).
+Make sure you are running a recent version of docker compose:
+::
+
+    $ docker-compose version
+    Docker Compose version v2.2.3
+
+Run the following command to create and run the necessary containers:
 ::
 
     $ docker-compose -f docker-compose.yml -f docker-compose.arm.yml up
