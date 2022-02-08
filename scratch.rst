@@ -18,8 +18,8 @@ Run the following command to create and run the necessary containers:
 
     $ docker-compose up
 
-.. note::
-   To build the docker images on ARM chips run
+
+Note: On ARM chips, run the following command to create and run the necessary containers:
 ::
 
     $ docker-compose up
