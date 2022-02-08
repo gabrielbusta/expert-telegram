@@ -20,7 +20,8 @@ Run the following command to create and run the necessary containers:
 
 
 **Note:**
-On ARM (M1) chips.
+
+*On ARM (M1) chips*
 
 Make sure you are running a recent version of docker compose:
 ::
