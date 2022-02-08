@@ -19,7 +19,7 @@ Run the following command to create and run the necessary containers:
     $ docker-compose up
 
 
-**Note:**
+**Note**
 
 *On ARM (M1) chips*
 
