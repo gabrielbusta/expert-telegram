@@ -19,10 +19,10 @@ Run the following command to create and run the necessary containers:
     $ docker-compose up
 
 
-Note: On ARM chips, run the following command to create and run the necessary containers:
+**Note:** On ARM chips (M1), run the following command to create and run the necessary containers:
 ::
 
-    $ docker-compose up
+    $ docker-compose -f docker-compose.yml -f docker-compose.arm.yml up
 
 Once it completes, you should be able to access
 
