@@ -31,10 +31,10 @@ Conversion notes:
 
 
 
-* 3 cups (16 1/2 ounces) bread flour, plus more for work surface (see note)
+* 3 cups (16 1/2 ounces) bread flour, plus more for work surface
 * 2 teaspoons sugar
 * 1/2 teaspoon instant or rapid-rise yeast
-* 1 1/3 cups ice water (about 10 1/2 ounces; see note)
+* 1 1/3 cups ice water (about 10 1/2 ounces)
 * 1 tablespoon vegetable oil, plus more for work surface
 * 1 1/2 teaspoons table salt
 
@@ -57,7 +57,7 @@ Conversion notes:
 
 
 * 1 ounce finely grated Parmesan cheese (about 1/2 cup)
-* 8 ounces whole milk mozzarella, shredded (about 2 cups; see note)
+* 8 ounces whole milk mozzarella, shredded (about 2 cups)
 
 
 ## Directions
