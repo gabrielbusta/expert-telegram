@@ -91,4 +91,4 @@ Conversion notes:
 3. Coat 1 ball of dough generously with flour and place on a well-floured countertop. Using fingertips, gently flatten into an 8-inch disk, leaving 1 inch of outer edge slightly thicker than center. Using your hands, gently stretch the disk into a 12-inch round, working along edges and giving disk quarter turns as you stretch.
 4. Transfer dough to well-floured peel and stretch into a 13-inch round. Using the back of a spoon or ladle, spread 1/2 cup tomato sauce in a thin layer over the surface of the dough, leaving a 1/4-inch border around the edge. Sprinkle 1/4 cup Parmesan evenly over sauce, followed by 1 cup mozzarella.
 5. Slide pizza carefully onto stone and bake until crust is well browned and cheese is bubbly and beginning to brown, 10 to 12 minutes, rotating pizza halfway through. Remove pizza and place on a wire rack for 5 minutes before slicing and serving.
-6. Repeat steps 1-5 to shape, top, and bake a second pizza.
+6. Repeat steps 3-5 to shape, top, and bake a second pizza.
