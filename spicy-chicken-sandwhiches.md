@@ -3,9 +3,9 @@ T-Pain Spicy Chicken Sandwiches
 Ingredients:
 
 For 2 servings:
-	•	1 tomato
-	•	Coleslaw mix
-	•	10 oz chicken cutlets
+- 1 tomato
+- Coleslaw mix
+- 10 oz chicken cutlets
 	•	1 teaspoon smoked paprika
 	•	1 teaspoon chili powder
 	•	Frank’s Hot Sauce
