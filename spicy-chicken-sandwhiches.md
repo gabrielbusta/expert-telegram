@@ -3,7 +3,6 @@ T-Pain Spicy Chicken Sandwiches
 Ingredients:
 
 For 2 servings:
-
 	•	1 tomato
 	•	Coleslaw mix
 	•	10 oz chicken cutlets
@@ -17,7 +16,6 @@ For 2 servings:
 	•	Butter
 
 Steps:
-
 	1.	Prepare the coleslaw mix.
 	2.	Pat chicken dry with paper towels and season all over with half the paprika (1/2 teaspoon), half the chili powder (1/2 teaspoon), salt, and pepper.
 	3.	Heat a drizzle of oil in a large pan over medium-high heat. Add chicken; cook until browned and cooked through, 3-5 minutes per side.
