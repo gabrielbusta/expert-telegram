@@ -1,4 +1,4 @@
-T-Pain Spicy Chicken Sandwiches
+Spicy Chicken Sandwiches
 
 Ingredients:
 
