@@ -37,7 +37,7 @@ un pan de 9" x 5" (23 cm x 13 cm)
 
 ### Instrucciones
 
-Modo de Horneado:
+**Modo de Horneado:**
 - Precaliente el horno a 350°F (175°C) con la rejilla en el centro. Engrase ligeramente un molde para pan de 9" x 5" (23 cm x 13 cm); si su molde es de vidrio o cerámica, reduzca la temperatura del horno a 325°F (160°C).
 - En un tazón grande, mezcle el plátano triturado, el aceite, el azúcar, los huevos y la vainilla.
 - Pese sus harinas; o mídalas utilizando una cuchara para llenar la taza y luego nivele con un cuchillo. Mezcle las harinas, el bicarbonato de sodio, el polvo de hornear, la sal, la canela y las nueces picadas en la mezcla de plátano. Raspe el fondo y los lados del tazón y mezcle nuevamente para combinar bien todos los ingredientes.
@@ -46,7 +46,7 @@ Modo de Horneado:
 - Retire el pan del horno. Déjelo enfriar en el molde durante 15 minutos, luego afloje los bordes y colóquelo en una rejilla para que se enfríe completamente.
 - Información de almacenamiento: Guarde el pan sobrante, bien envuelto, a temperatura ambiente durante varios días. Congele para un almacenamiento más prolongado.
 
-**Consejos de nuestros Panaderos**
+### Consejos de nuestros Panaderos
 - ¿Quiere hornear y compartir? Esta receta produce 15 muffins de tamaño estándar. Hornee los muffins en un horno precalentado a 350°F (175°C) durante 20 a 23 minutos, o hasta que un cuchillo pequeño insertado en el centro de un muffin salga limpio.
 - ¿Busca una versión sin gluten de la receta? Encuéntrela aquí: Pan de Plátano Integral Sin Gluten.
 - Si desea reducir la cantidad de grasa en esta receta, pruebe cualquiera de estas sustituciones, que darán como resultado un pan muy similar en textura y humedad al original:
