@@ -38,7 +38,6 @@ Ingredientes
 Instrucciones
 
 Modo de Horneado:
-Evite que su pantalla se apague mientras sigue la receta.
 - Precaliente el horno a 350°F (175°C) con la rejilla en el centro. Engrase ligeramente un molde para pan de 9" x 5" (23 cm x 13 cm); si su molde es de vidrio o cerámica, reduzca la temperatura del horno a 325°F (160°C).
 - En un tazón grande, mezcle el plátano triturado, el aceite, el azúcar, los huevos y la vainilla.
 - Pese sus harinas; o mídalas utilizando una cuchara para llenar la taza y luego nivele con un cuchillo. Mezcle las harinas, el bicarbonato de sodio, el polvo de hornear, la sal, la canela y las nueces picadas en la mezcla de plátano. Raspe el fondo y los lados del tazón y mezcle nuevamente para combinar bien todos los ingredientes.
