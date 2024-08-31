@@ -2,19 +2,19 @@
 
 Este pan de plátano de un solo tazón — nuestra Receta del Año 2018 — utiliza los ingredientes más simples, pero es increíblemente húmedo y sabroso. Aunque la receta pide una mezcla 50/50 de harinas (harina para todo uso y harina de trigo integral), a menudo hacemos el pan 100% de trigo integral, y honestamente, ¿nadie lo nota? ¡Es tan bueno! Y no solo es delicioso, sino que también es versátil.
 
-PREPARACIÓN
+#### PREPARACIÓN
 10 minutos
 
-HORNEADO
+#### HORNEADO
 1 hora a 1 hora y 15 minutos
 
-TOTAL
+#### TOTAL
 1 hora y 25 minutos
 
-RENDIMIENTO
+#### RENDIMIENTO
 un pan de 9" x 5" (23 cm x 13 cm)
 
-Ingredientes
+### Ingredientes
 
 **Masa:**
 - 2 tazas (454g) de plátano triturado (aproximadamente 5 plátanos medianos)
@@ -35,7 +35,7 @@ Ingredientes
 - 1 cucharada (13g) de azúcar granulada
 - 1/2 cucharadita de canela
 
-Instrucciones
+### Instrucciones
 
 Modo de Horneado:
 - Precaliente el horno a 350°F (175°C) con la rejilla en el centro. Engrase ligeramente un molde para pan de 9" x 5" (23 cm x 13 cm); si su molde es de vidrio o cerámica, reduzca la temperatura del horno a 325°F (160°C).
