@@ -1,4 +1,4 @@
-Pan de Plátano Integral
+## Pan de Plátano Integral
 
 Este pan de plátano de un solo tazón — nuestra Receta del Año 2018 — utiliza los ingredientes más simples, pero es increíblemente húmedo y sabroso. Aunque la receta pide una mezcla 50/50 de harinas (harina para todo uso y harina de trigo integral), a menudo hacemos el pan 100% de trigo integral, y honestamente, ¿nadie lo nota? ¡Es tan bueno! Y no solo es delicioso, sino que también es versátil.
 
