@@ -1,6 +1,6 @@
-Seared Southwest Chicken Salad
+# Seared Southwest Chicken Salad
 
-Ingredients
+## Ingredients
 	- 12 ounces of chicken breast, chopped into bite-sized squares
 	- Chili powder, to taste
 	- Onion powder, to taste
