@@ -1,14 +1,14 @@
 Seared Southwest Chicken Salad
 
 Ingredients
-	•	12 ounces of chicken breast, chopped into bite-sized squares
-	•	Chili powder, to taste
-	•	Onion powder, to taste
-	•	Garlic powder, to taste
-	•	Dried oregano, to taste
-	•	Black pepper, to taste
-	•	Kosher salt, to taste
-	•	1 package Chipotle Southwest salad mix (includes dressing & toppings)
+	- 12 ounces of chicken breast, chopped into bite-sized squares
+	- Chili powder, to taste
+	- Onion powder, to taste
+	- Garlic powder, to taste
+	- Dried oregano, to taste
+	- Black pepper, to taste
+	- Kosher salt, to taste
+	- 1 package Chipotle Southwest salad mix (includes dressing & toppings)
 
 Instructions
 	1.	Prep the chicken
