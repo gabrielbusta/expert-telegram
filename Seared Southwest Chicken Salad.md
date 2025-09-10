@@ -15,4 +15,4 @@
 2. Coat the chicken evenly with chili powder, onion powder, garlic powder, dried oregano, black pepper, and kosher salt.
 3. Heat a skillet over medium-high heat. Add a high smoke point oil, then sear the chicken until golden brown and cooked through (about 5–7 minutes total).
 4. Open the Chipotle Southwest salad kit and toss the greens with the included dressing and toppings. Reserve some of the dressing to coat the chicken.
-5. Toss the chicken in reserved dressing
+5. Toss the chicken in reserved dressing.
