@@ -8,7 +8,7 @@
 - Dried oregano, to taste
 - Black pepper, to taste
 - Kosher salt, to taste
-- 1 package Chipotle Southwest salad mix (includes dressing & toppings)
+- 1 package of Dole Chipotle & Cheddar salad kit (includes dressing & toppings)
 
 ## Instructions
 1. Chop the chicken breast into bite-sized squares.
